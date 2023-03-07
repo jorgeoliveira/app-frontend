@@ -1,1 +1,1 @@
-import{l}from"../../../../chunks/_page-2b010055.js";export{l as load};
+import{l}from"../../../../chunks/_page-c692e71b.js";export{l as load};
